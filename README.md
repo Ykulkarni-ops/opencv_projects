@@ -9,9 +9,5 @@ The GMM learns and creates the new pixel distribution. A graph is built and ever
 A mincut algorithm is used to segment the graph and then all the nodes connected to source node become foreground and that to sink node become background.<br/>
 The process continues until the classification converges.<br/> 
 <p float = "left">
-<img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Background_removal_grabcut_algo/images/mask.jpg" width = 200/><br/>
-
-<img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Background_removal_grabcut_algo/images/mask2.jpg" width = 200/><br/>
-
-<img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Background_removal_grabcut_algo/images/finalimage.jpg" width = 200/><br/>
+<img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Background_removal_grabcut_algo/images/mask.jpg" width = 200/><br/><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Background_removal_grabcut_algo/images/mask2.jpg" width = 200/><br/><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Background_removal_grabcut_algo/images/finalimage.jpg" width = 200/><br/>
 </p>
