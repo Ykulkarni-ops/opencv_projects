@@ -11,3 +11,11 @@
 <p float = "left">
 <img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Background_removal_grabcut_algo/images/mask.jpg" width = 200 title ="Mask" hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Background_removal_grabcut_algo/images/mask2.jpg" width = 200 title = "Mask2" hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Background_removal_grabcut_algo/images/finalimage.jpg" width = 200 title= "final" hspace="20" />
 </p>
+
+
+## OCR Text Detection using Pytesseract
+
+- Here I have implemented OCR text detection using pytesseract the workflow of pytesseract is as follows.<br/>
+<img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/OCR_text_detection/images/workflow.png"><br/>
+
+
