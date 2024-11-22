@@ -17,5 +17,5 @@
 
 - Here I have implemented OCR text detection using pytesseract the workflow of pytesseract is as follows.<br/>
 <img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/OCR_text_detection/images/workflow.png"><br/>
-
-
+- The output for OCR text detection<br/>
+<img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/OCR_text_detection/images/output.png" width = 400 title = "OCR image"><br/>
