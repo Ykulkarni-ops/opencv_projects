@@ -29,4 +29,4 @@
 - QR code structure<br/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/QR_Code_Structure_Example_3.svg/800px-QR_Code_Structure_Example_3.svg.png" width = 300><br/>
 - QR code detection<br/>
-<img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/barcode_QR_generation_reading/images/output.png" witdh = 300><br/>
+<img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/barcode_QR_generation_reading/images/output.png" witdh = 200><br/>
