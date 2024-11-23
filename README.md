@@ -19,3 +19,14 @@
 <img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/OCR_text_detection/images/workflow.png"><br/>
 - The output for OCR text detection<br/>
 <img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/OCR_text_detection/images/output.png" width = 400 title = "OCR image"><br/>
+
+
+## Barcode and QR code generation and reading
+
+- Here we detect the barcode and QR code and generate them as well.<br/>
+- Sample barcode generated<br/>
+<img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/barcode_QR_generation_reading/images/output1.png" width = 300><br/>
+- QR code structure 
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/QR_Code_Structure_Example_3.svg/800px-QR_Code_Structure_Example_3.svg.png" width = 300><br/>
+- QR code detection 
+<img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/barcode_QR_generation_reading/images/output.png" witdh = 300><br/>
