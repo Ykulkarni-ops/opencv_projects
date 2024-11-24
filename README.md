@@ -35,10 +35,10 @@
 ## Neural Style Transfer
 
 - Neural Style Transfer enables the artistic style of an image to be applied to another image! It copies the color patterns, combinations, and brush strokes of the original source image and applies it to your input image. And is one the most impressive implementations of Neural Networks in my opinion.<br/>
-<img src ="https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Neural_style_transfer/output/workflow.png" width = 300><br/>
+<img src ="https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Neural_style_transfer/output/workflow.png" width = 500><br/>
 -The results after implmentation on the astronaut image are as follows:<br/>
 <p float = "left">
-<img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Neural_style_transfer/output/starry_night.png" width = 200 title ="Mask" hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Neural_style_transfer/output/wave.png" width = 200 title = "Mask2" hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Neural_style_transfer/output/composition.png" width = 200 title= "final" hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Neural_style_transfer/output/mosaic.png" width = 200 title= "final" hspace="20" />
+<img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Neural_style_transfer/output/starry_night.png" width = 400 title ="Mask" hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Neural_style_transfer/output/wave.png" width = 400 title = "Mask2" hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Neural_style_transfer/output/composition.png" width = 400 title= "final" hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Neural_style_transfer/output/mosaic.png" width = 400 title= "final" hspace="20" />
 </p>
-- The result after implementing neural style transfer on video are as follows:<br/>
-<img src ="https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Neural_style_transfer/output/video.gif" width = 300><br/>
+-The result after implementing neural style transfer on video are as follows:<br/>
+<img src ="https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Neural_style_transfer/output/video.gif" width = 400><br/>
