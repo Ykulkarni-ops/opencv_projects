@@ -44,3 +44,10 @@
 
 - The result after implementing neural style transfer on video are as follows:<br/>
 <img src ="https://github.com/Ykulkarni-ops/opencv_projects/blob/main/Neural_style_transfer/output/video.gif" width = 400><br/>
+
+
+## Colorizing photos using caffe model
+- Here I have used caffe model to colorize the black and white photos. The results are as follows: 
+<p float = "left">
+<img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image1.png" width = 300 /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image2.png" width = 300 hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image3.png" width = 300 /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image4.png" width = 300 hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image5.png" width = 300 /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image6.png" width = 300 hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image7.png" width = 300 /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image8.png" width = 300 hspace="20" />
+</p>
