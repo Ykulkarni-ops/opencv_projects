@@ -51,3 +51,10 @@
 <p float = "left">
 <img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image1.png" width = 300 /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image2.png" width = 300 hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image3.png" width = 300 /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image4.png" width = 300 hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image5.png" width = 300 /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image6.png" width = 300 hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image7.png" width = 300 /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/colorizing_photos/output/image8.png" width = 300 hspace="20" />
 </p>
+
+
+## Inpainting to restore
+- Here I have used inpainting to restore the damged photos. The results are as follows:
+<p float ="left">
+<img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/inpainting_to_restore/output/original.png" width = 300 title ="Mask" hspace="20" /><img src = "https://github.com/Ykulkarni-ops/opencv_projects/blob/main/inpainting_to_restore/output/restored.png" width = 300 title = "Mask2" hspace="20" />
+</p>
